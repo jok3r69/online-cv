@@ -1,9 +1,9 @@
 :root {
-    font-size: 10px;
+    font-size: 12px;
 }
 
 html {
-    /* width: 1000px; */
+    /* width: 1000px;*/
     margin: 0 auto;
     background-color: azure;
 }
@@ -11,8 +11,9 @@ html {
 .main-nav  {
     background-color: lightcoral;
     height: 40px;
-    font-size: 30px;
+    font-size: 30px ;
 }
+
 
 header nav ul {
     display: flex;
